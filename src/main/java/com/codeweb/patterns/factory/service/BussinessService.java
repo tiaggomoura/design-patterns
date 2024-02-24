@@ -1,6 +1,5 @@
 package com.codeweb.patterns.factory.service;
 
-
 import com.codeweb.patterns.factory.model.Car;
 import org.springframework.stereotype.Service;
 
